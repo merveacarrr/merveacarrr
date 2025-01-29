@@ -1,59 +1,58 @@
-## Hi there 👋
+### <h1 align="center">Merhaba, ben Merve Acar! 👋</h1>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="500"/>
-  <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=6A5ACD&center=true&vCenter=true&width=500&lines=Merhaba!+Ben+Merve+Acar;Veri+Bilimi+ve+Yapay+Zeka+Tutkunu!" alt="Yazı Animasyonu"/>
-  </h1>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6F42C1&center=true&width=600&lines=Bilgisayar+M%C3%BChendisi+%7C+AI+%7C+Veri+Bilimi+%7C+Siber+G%C3%BCvenlik;Teknoloji+ve+%C3%B6%C4%9Frenme+arzusuyla+%C3%A7al%C4%B1%C5%9F%C4%B1yorum!" />
+</p>
 
-## 🚀 Hakkımda
+---
 
-- 📊 **Veri Bilimi, Yapay Zeka ve Siber Güvenlik** alanında çalışıyorum.
-- 🎓 **Bilgisayar Mühendisliği mezunuyum**, makine öğrenmesi ve veri analitiği alanlarında uzmanlaşıyorum.
-- 🏆 **Türk Telekom İş Zekası ve Veri Yönetişimi ekipleriyle mülakat süreçlerine katıldım.**
-- 🤖 **Yapay Zeka ve Makine Öğrenmesi projeleri geliştiriyorum.**
-- 🌍 **Sürdürülebilirlik, kişiselleştirme ve telekomünikasyon sektöründe veri bilimi projelerine ilgi duyuyorum.**
+### 🎨 Hakkımda
 
-## 📫 Bana Ulaşın
+- 🎓 **Bilgisayar Mühendisliği** öğrencisiyim.
+- 💡 Yapay Zeka, Makine Öğrenmesi, Veri Bilimi ve Siber Güvenlik alanlarında projeler geliştiriyorum.
+- 🚀 **TÜBİTAK 2209** projesi kapsamında **yapay zeka destekli görüntü işleme tabanlı bir işaret dili çevirmen** üzerine çalışıyorum.
+- 🎯 Sürekli öğrenmeye inanıyor, **AI Uzmanlık Programı, Veri Bilimi, Siber Güvenlik** gibi eğitimlere katılıyorum.
+- 🌱 **Topluluk çalışmaları** ve açık kaynak projelere katkıda bulunuyorum.
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/mrvacar/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/merveacarrr">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</div>
+---
 
-## 📊 GitHub İstatistiklerim
+### 🛠️ Teknik Beceriler
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=merveacarrr&show_icons=true&theme=soft" alt="GitHub İstatistikleri"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=merveacarrr&layout=compact&theme=soft" alt="En Çok Kullandığım Diller"/>
-</div>
+#### 🚀 **Programlama Dilleri:**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
 
-## 🛠️ Kullandığım Teknolojiler
+#### ⚡ **Araçlar & Teknolojiler:**
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Spark](https://img.shields.io/badge/-Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
-</div>
 
-## 🎥 Hareketli Görsel
+---
 
-<div align="center">
-  <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" alt="Coding" width="500"/>
-</div>
+### 🌟 Öne Çıkan Projeler
 
-## ✨ İlgi Alanlarım
+🚀 **Yapay Zeka Destekli Görüntü İşleme Tabanlı Çevirmen**  
+📌 Yapay zeka ve görüntü işleme teknikleriyle diller arası çeviri sağlayan bir sistem.  
+🔗 [Proje Linki (Yakında)](#)
 
-- 📌 **Makine Öğrenmesi & Doğal Dil İşleme**
-- 🔐 **Siber Güvenlik ve Web Güvenliği**
-- 📊 **Veri Analitiği ve Büyük Veri**
-- 🌿 **Sürdürülebilir Teknolojiler**
+🔐 **Siber Güvenliğin Süper Kadınları**  
+📌 Siber güvenlik alanında farkındalık yaratmak için makaleler yazdım. **Siber Güvenlik El Kitabı** yazarlarından biriyim.
 
-Teşekkürler! Profilimi ziyaret ettiğiniz için mutlu oldum. 😊
+---
+
+### 📫 Bana Ulaşın
+
+🔗 **LinkedIn:** [Profilim](https://linkedin.com/in/merve-acar)  
+💻 **GitHub:** [Profilim](https://github.com/merveacar)  
+
+---
+
+⭐ **"Teknoloji, hayallerimizi gerçeğe dönüştüren bir araçtır. Ben de bu yolculukta sürekli öğrenerek ve üreterek ilerlemeye devam ediyorum."** ⭐
+
 
