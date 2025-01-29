@@ -4,6 +4,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6F42C1&center=true&width=600&lines=Veri%2C+sadece+rakamlardan+ibaret+de%C4%9Fildir%3B+i%C3%A7inde+ke%C5%9Ffedilmeyi+bekleyen+hikayeler+vard%C4%B1r." />
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3VnMmc1dDkwM2V0emtkMWhmNjBtd2o0eG5od21lOXQ0Zm12bjNzMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mG9F0sgH26X2dJu6xJ/giphy.gif" width="300" />
+</p>
+
 ---
 
 ### 🎨 Hakkımda
@@ -32,7 +36,6 @@
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-
 ---
 
 ### 🌟 Öne Çıkan Projeler
@@ -54,6 +57,7 @@
 ---
 
 ⭐ **"Teknoloji, hayallerimizi gerçeğe dönüştüren bir araçtır. Ben de bu yolculukta sürekli öğrenerek ve üreterek ilerlemeye devam ediyorum."** ⭐
+
 
 
 
