@@ -1,17 +1,19 @@
 ## Hi there 👋
 
 <div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="500"/>
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=500&lines=Merhaba!+Ben+Merve+Acar;Ho%C5%9F+Geldiniz+GitHub+Profilime!" alt="Yazı Animasyonu"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=6A5ACD&center=true&vCenter=true&width=500&lines=Merhaba!+Ben+Merve+Acar;Veri+Bilimi+ve+Yapay+Zeka+Tutkunu!" alt="Yazı Animasyonu"/>
   </h1>
 </div>
 
 ## 🚀 Hakkımda
 
-- 📊 **Veri Bilimi ve Yapay Zeka** alanına ilgi duyuyorum.
-- 🎓 **Bilgisayar Mühendisliği** mezunuyum.
-- 🤖 **Yapay Zeka ve Makine Öğrenmesi** alanlarında projeler geliştiriyorum.
-- 🌍 **Sürdürülebilirlik ve Kişiselleştirme** odaklı projelere ilgi duyuyorum.
+- 📊 **Veri Bilimi, Yapay Zeka ve Siber Güvenlik** alanında çalışıyorum.
+- 🎓 **Bilgisayar Mühendisliği mezunuyum**, makine öğrenmesi ve veri analitiği alanlarında uzmanlaşıyorum.
+- 🏆 **Türk Telekom İş Zekası ve Veri Yönetişimi ekipleriyle mülakat süreçlerine katıldım.**
+- 🤖 **Yapay Zeka ve Makine Öğrenmesi projeleri geliştiriyorum.**
+- 🌍 **Sürdürülebilirlik, kişiselleştirme ve telekomünikasyon sektöründe veri bilimi projelerine ilgi duyuyorum.**
 
 ## 📫 Bana Ulaşın
 
@@ -19,13 +21,16 @@
   <a href="https://www.linkedin.com/in/mrvacar/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  <a href="https://github.com/merveacarrr">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </div>
 
 ## 📊 GitHub İstatistiklerim
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrvacar&show_icons=true&theme=radical" alt="GitHub İstatistikleri"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrvacar&layout=compact&theme=radical" alt="En Çok Kullandığım Diller"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=merveacarrr&show_icons=true&theme=soft" alt="GitHub İstatistikleri"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=merveacarrr&layout=compact&theme=soft" alt="En Çok Kullandığım Diller"/>
 </div>
 
 ## 🛠️ Kullandığım Teknolojiler
@@ -37,9 +42,18 @@
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
 </div>
 
-## 🎥 Hareketli GIF
+## 🎥 Hareketli Görsel
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="500"/>
+  <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" alt="Coding" width="500"/>
 </div>
+
+## ✨ İlgi Alanlarım
+
+- 📌 **Makine Öğrenmesi & Doğal Dil İşleme**
+- 🔐 **Siber Güvenlik ve Web Güvenliği**
+- 📊 **Veri Analitiği ve Büyük Veri**
+- 🌿 **Sürdürülebilir Teknolojiler**
+
+Teşekkürler! Profilimi ziyaret ettiğiniz için mutlu oldum. 😊
 
