@@ -8,7 +8,7 @@
 
 ### 🎨 Hakkımda
 
-- 🎓 **Bilgisayar Mühendisliği** öğrencisiyim.
+- 🎓 **Bilgisayar Mühendisliği** mezunuyum.
 - 💡 Yapay Zeka, Makine Öğrenmesi, Veri Bilimi ve Siber Güvenlik alanlarında projeler geliştiriyorum.
 - 🚀 **TÜBİTAK 2209** projesi kapsamında **yapay zeka destekli görüntü işleme tabanlı bir işaret dili çevirmen** üzerine çalışıyorum.
 - 🎯 Sürekli öğrenmeye inanıyor, **AI Uzmanlık Programı, Veri Bilimi, Siber Güvenlik** gibi eğitimlere katılıyorum.
